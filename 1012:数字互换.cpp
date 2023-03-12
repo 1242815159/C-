@@ -5,4 +5,4 @@ int main (){
 	cin>>a>>b;
 	cout<<b<<" "<<a;
 	return 0;
-	}
+}
